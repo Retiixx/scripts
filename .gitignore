@@ -1,0 +1,9 @@
+# PHPStorm
+.idea/
+
+# VSCode
+.vscode/
+.history/
+
+# NPM
+node_modules/
